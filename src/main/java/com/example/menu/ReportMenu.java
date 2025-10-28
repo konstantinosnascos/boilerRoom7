@@ -1,6 +1,6 @@
-package com.example;
+package com.example.menu;
 
-import com.example.menu.InputHelper;
+import com.example.models.PurchaseFlow;
 
 import java.util.Scanner;
 

@@ -1,4 +1,11 @@
-package com.example;
+package com.example.models;
+
+import com.example.discounts.DiscountPolicy;
+import com.example.discounts.PercentageDiscount;
+import com.example.menu.MenuHandler;
+import com.example.messages.EmailSender;
+import com.example.messages.NotificationService;
+import com.example.messages.ReceiptPrinter;
 
 import java.util.Scanner;
 

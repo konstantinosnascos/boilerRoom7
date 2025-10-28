@@ -1,4 +1,8 @@
-package com.example;
+package com.example.models;
+
+import com.example.discounts.DiscountPolicy;
+import com.example.messages.NotificationService;
+import com.example.messages.ReceiptPrinter;
 
 public class PurchaseFlow {
     private final Cart cart;

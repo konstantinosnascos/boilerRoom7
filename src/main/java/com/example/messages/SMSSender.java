@@ -1,4 +1,4 @@
-package com.example;
+package com.example.messages;
 
 public class SMSSender implements MessageSender {
     private String phoneNumber = "+46701234567"; // Exempel

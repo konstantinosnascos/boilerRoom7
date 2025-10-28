@@ -1,6 +1,7 @@
-package com.example;
+package com.example.menu;
 
-import com.example.menu.InputHelper;
+import com.example.models.Cart;
+import com.example.models.Product;
 
 import java.util.Scanner;
 

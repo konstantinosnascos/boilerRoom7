@@ -1,4 +1,7 @@
-package com.example;
+package com.example.messages;
+
+import com.example.models.Cart;
+import com.example.models.Product;
 
 public class ReceiptPrinter {
     public void printReceipt(Cart cart, double discountApplied, double finalTotal) {

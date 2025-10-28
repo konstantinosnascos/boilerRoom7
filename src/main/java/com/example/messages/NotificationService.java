@@ -1,4 +1,4 @@
-package com.example;
+package com.example.messages;
 
 public class NotificationService {
     private MessageSender sender;

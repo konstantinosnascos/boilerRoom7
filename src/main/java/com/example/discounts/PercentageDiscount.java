@@ -1,4 +1,4 @@
-package com.example;
+package com.example.discounts;
 
 public class PercentageDiscount implements DiscountPolicy {
     private final double discountPercent;

@@ -1,4 +1,4 @@
-package com.example;
+package com.example.messages;
 
 public class EmailSender implements MessageSender {
     private String emailAddress = "kund@example.com"; // Kan utökas till konfiguration
